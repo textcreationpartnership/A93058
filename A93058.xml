@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Samuel in sackcloth: or, A sermon assaying to restrain our bitter animosities, and commending a spirit of moderation, and right consittution of soul and behaviour towards our brethren. Upon I Samuel 15.35. By S.S.</title>
+            <author>Shaw, Samuel, 1635-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93058</idno>
+            <idno type="STC">Wing S3044</idno>
+            <idno type="STC">Thomason E1029_4</idno>
+            <idno type="STC">ESTC R208909</idno>
+            <idno type="EEBO-CITATION">99867826</idno>
+            <idno type="PROQUEST">99867826</idno>
+            <idno type="VID">168885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168885)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1029[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Samuel in sackcloth: or, A sermon assaying to restrain our bitter animosities, and commending a spirit of moderation, and right consittution of soul and behaviour towards our brethren. Upon I Samuel 15.35. By S.S.</title>
+                  <author>Shaw, Samuel, 1635-1696.</author>
+               </titleStmt>
+               <extent>[8], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R.I. For Henry Mortlock at the Phœnix in St. Pauls Church-yard, near the Little North-door,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>S.S. = Samuel Shaw.</note>
+                  <note>Annotation on Thomason copy: "June 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168885:1" rendition="simple:additions"/>
+            <p>Samuel in Sackcloth: OR, A SERMON Aſſaying to reſtrain Our Bitter Animoſities, And commending a Spirit of MODERATION, and a Right Conſtitution of <hi>SO<g ref="char:V">Ʋ</g>L</hi> and Behaviour towards Our BRETHREN.</p>
+            <p>Upon 1 SAMUEL 15. 35.</p>
+            <p>By S. S.</p>
+            <q>
+               <p>If yee will not hear, my ſoul ſhall weep in ſecret places for your Pride,</p> 
+               <bibl>Jeremiah 13. 17.</bibl>
+            </q>
+            <q>
+               <p>Hearken unto mee (<hi>you men of</hi> England) that God may hearken, unto you,</p> 
+               <bibl>Judges 9. 7.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. I.</hi> for <hi>Henry Mortlock</hi> at the Phoenix in St. <hi>Pauls</hi> Church-yard, near the Little North-door. 1660.</p>
+            <pb facs="tcp:168885:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168885:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>TO THE WORSHIPFULL, AND HIS Honoured Friend, <hi>John Swynfen,</hi> of <hi>Swynfen</hi> in the COUNTY of <hi>STAFFORD,</hi> 
+               <abbr>Esq</abbr> 
+               <hi>The Author wiſheth all Grace and Peace.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I had long ſeen, and ſighed for that bitter and vio<g ref="char:EOLhyphen"/>lent ſpirit which hath acted the body of our Nation, and the ſeveral Members thereof (according as their intereſt was ad<g ref="char:EOLhyphen"/>vanced) it pleaſed God to direct mee to
+<pb facs="tcp:168885:3"/> the ſight of gracious <hi>Samuel,</hi> whoſe holy and ſober ſpirit (acting upon the greateſt diſadvantages) did much affect mee; And I could not but expreſſe to my Congrega<g ref="char:EOLhyphen"/>tion how much: And when I ſaw the whole Nation as much need healing, as my own poor flock, I did command my more timorous diſpoſition, to adven<g ref="char:EOLhyphen"/>ture my conceptions to the view of all that ſhall have leiſure to peruſe them; knowing that the healing of one Ulcer in the heart of any man, would abundantly recompence the wounds that I may pro<g ref="char:EOLhyphen"/>bably have procured to my own Name: not caring my ſelf to undergo any cenſure, if I might poſſibly cure the diſtemper of cenſoriouſneſſe in any. Standing upon this bold reſolution, to offer this unwor<g ref="char:EOLhyphen"/>thy mite to the world, your undeſerved love to, and care of mee; your known worth ſhining out to all, in the rayes of piety, prudence, and learning; and a<g ref="char:EOLhyphen"/>bove all, that ſingular ſobriety, mode<g ref="char:EOLhyphen"/>ration, and good compoſedneſſe of ſoul, which I have alwaies admired in you, chal<g ref="char:EOLhyphen"/>lenged the Patronage of it. I profeſſe
+<pb facs="tcp:168885:3"/> without the leaſt mixture of flattery or falſhood, that I know not any man, whoſe name might more juſtly bee pre<g ref="char:EOLhyphen"/>fixed to a Sermon of this nature. And, as I pray you to accept of this poor obla<g ref="char:EOLhyphen"/>tion, ſo I heartily pray God to give us more ſuch ſpirits as yours, who may bee able, not to comprize men and manners, perſons and opinions, in one and the ſame deteſtation. Sir, I humbly beg your par<g ref="char:EOLhyphen"/>don, not daring further, ſave to profeſſe my ſelf</p>
+            <closer>
+               <signed>Your moſt affectionate and obliged Servant, <hi>S. S.</hi>
+               </signed>
+               <dateline>
+                  <date>Jan. 9. 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168885:4"/>
+            <head>TO THE Chriſtian Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Have oft, and ſadly obſerved the ſtrange fires, and extravagant heats which have raged in this our Na<g ref="char:EOLhyphen"/>tion, to the mutual incenſing, I had almoſt ſaid conſuming, of one ano<g ref="char:EOLhyphen"/>ther: Men are become Men-eaters, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Gal.</hi> 5. 15.</note> if I may bee allowed to ſpeak after the Apoſtles rate. Is there any man of ſo few eyes, any eyes of ſo little ſight, that have not obſerved that our many ſtrange changes, have been attended with as ſtrange behaviours? Hee that is above, thinking it the juſt prerogative of his place, to trample upon him that is under; and the other, when hee gets up, thinking it but a peece of justice, to do the like by him. For my own part, I do not wonder, that God keeps our affairs from ſettling long to the contentment of any one intereſt, when a man, nay, any man (much more then, hee that ſees much more than all men) ſees the barbarous in<g ref="char:EOLhyphen"/>ſultings, unbounded animoſities, and unchristian be<g ref="char:EOLhyphen"/>haviours, which thoſe that lay as great claim to civility, manners, moderation, ſobriety, as any, have been
+<pb facs="tcp:168885:4"/> found guilty of. Even thoſe that pretend highly to an healing ſpirit, themſelves appear to have much of di<g ref="char:EOLhyphen"/>ſtempered affections in them; and inſtead of mollifying, have inflamed the wounds of their brethren. Thoſe that preach, and pray for moderation, when their in<g ref="char:EOLhyphen"/>terest begins to ſmart, will not ſtick to revile them that have lanc'd it; and when it begins to bee their turn, will not boggle to magnifie their mouths as wide as <hi>E<g ref="char:EOLhyphen"/>dom.</hi> 
+               <note place="margin">
+                  <hi>Obad. v.</hi> 12.</note> Now if <hi>the moſt upright</hi> be thus <hi>ſharp,</hi> thus cen<g ref="char:EOLhyphen"/>ſorious, ſupercilious, bitter, immoderate, inſolent, <hi>actum eſt de ſpiritu verè Evangelico,</hi> where ſhall wee hope to finde Chriſtian Moderation? If theſe heats proceed from the <hi>green Trees,</hi> what fires may wee expect from the <hi>dry?</hi> Can God no ſooner have ſet us on horſe back, but wee muſt ride over all that is in our way? no ſooner have raiſed us out of the dirt, but wee muſt throw our brethren into it, and make ſtepping-ſtones of our fellow-creatures? O Barbariſm, which there is not in the na<g ref="char:EOLhyphen"/>ture of a Lion to parallel! Is it enough to make a man <note place="margin">Corpora magna<g ref="char:EOLhyphen"/>nimo ſatis eſt prostraſſe leoni.</note> guilty, that nature hath stopt his mouth, ſo that hee cannot prove the contrary? Enough to prove a tenent erronious, becauſe hee that holds it hath loſt his beſt Ar<g ref="char:EOLhyphen"/>gument? Is that come to paſs which <hi>Bathſheba</hi> feared; that not to bee great muſt bee interpreted to bee an <hi>Offen<g ref="char:EOLhyphen"/>der?</hi> 
+               <note place="margin">1 <hi>King.</hi> 1. 21.</note> I know wee have almoſt undone our ſelves by mu<g ref="char:EOLhyphen"/>tual wars, and that thoſe wars have been fomented (if not created) by mutual heats, and burnings: And I fear wee ſhall never ſoder together kindly, unleſs the con<g ref="char:EOLhyphen"/>queror and the conquered agree mutually, the one to lay aſide his pride and petulancy, and the other his malice and malignity; which I wiſh they may do, before <hi>fire come out from</hi> Abimelech, <hi>and devour the men of</hi> Shechem, <hi>and from the men of</hi> Shechem, <hi>and devour</hi> Abimelech.</p>
+            <pb facs="tcp:168885:5"/>
+            <p> Whilſt I meditated, to my great grief, of theſe extra<g ref="char:EOLhyphen"/>vagancies, providence put into my hands the Chronicle, (I might ſay the Miracle) of <hi>Samuels</hi> Moderation; which, finding it to contain an excellent preſident, I preached to them, amongſt whom I earneſtly deſire to propagate ſuch a ſpirit: And being preſt with the ſenſe of the great want of it elſewhere (every where) I have emboldened my ſelf to adventure what I preach'd, to publick view, aſſu<g ref="char:EOLhyphen"/>ring my ſelf to meet with that cenſoriouſneſs about it, which in it I have laboured to meet with. Whether it may pleaſe any that read it, or bee put in practice by any that are pleaſed with it, I know not. The former I am not ſolicitous about, not much caring though that do diſ<g ref="char:EOLhyphen"/>pleaſe ſome, which was not ſtudied to pleaſe any; and wherein I have not alluded to any one intereſt, which I ſought to humour above other. The latter I humbly com<g ref="char:EOLhyphen"/>mit to God, whoſe honour I humbly deſire mainly to de<g ref="char:EOLhyphen"/>ſign, praying him to work a ſpirit like unto that, which was in Chriſt Jeſus, in thee, and mee, and to give us fewer <hi>Sauls</hi> that ſhall need to bee mourned for, and more <hi>Sa<g ref="char:EOLhyphen"/>muels</hi> to mourn for thoſe that wee have in this our <hi>Iſrael.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Jan.</hi> 9. 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:168885:5"/>
+            <head>Samuel in Sackcloth; OR, A Sermon aſſaying to reſtrain our bitter A<g ref="char:EOLhyphen"/>nimoſities, and commending a ſpirit of Modera<g ref="char:EOLhyphen"/>tion, and a right conſtitution of ſoul, and beha<g ref="char:EOLhyphen"/>viour towards our Brethren.</head>
+            <epigraph>
+               <bibl>1 SAMUEL 15. 35.</bibl>
+               <q>And Samuel came no more to ſee Saul till the day of his death: nevertheleſs Samuel mourned for <hi>Saul:</hi> and the Lord repented that he had made Saul King over Iſrael.</q>
+               <q xml:lang="heb">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q>
+               <q>—Nevertheleſs Samuel mourned for Saul.—</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Chapter preſents us with the lively draught of a good Subject, and a faithful Miniſter, appearing both with an excel<g ref="char:EOLhyphen"/>lent luſtre, in one <hi>Samuel;</hi> concerning whom I cannot but note, and commend one thing by the way; And that is his remarkable, and indeed admirable humility, in letting go the Scepter out of his hands, and ſtanding ſtill whilſt God ſtript him of the Political Government; and afterwards hee behaved himſelf with as much quietneſs and faithful<g ref="char:EOLhyphen"/>neſs, as though hee had loſt nothing, or did not at all reſent his loſs. It appears that hee ſate not in the Throne of <hi>Iſrael,</hi> to keep himſelf warm, to pleaſe his own ambitious ſpirit, but to do the work of God, and
+<pb n="2" facs="tcp:168885:6"/> ſerve the neceſſities of the people: for when God had provided himſelf otherwaies, he willingly reſign<g ref="char:EOLhyphen"/>ed, and became as though hee had never ſitten there.</p>
+            <p>In the Chapter, wee have this <hi>Samuel</hi> the Prophet and Servant of the Lord ſending <hi>Saul</hi> his anointed King of an Errand. 2 <hi>Saul</hi> going upon this Errand; but failing in the execution of it; in ſparing what God had determined to the ſword. 3 <hi>Samuel</hi> repro<g ref="char:EOLhyphen"/>ving and threatning <hi>Saul</hi> for his diſobedience. 4 <hi>Saul</hi> repenting and worſhipping God. 5 <hi>Samuel</hi> executing what <hi>Saul</hi> had left undone. 6 <hi>Samuel</hi> and <hi>Saul</hi> parting, in the two laſt verſes. <hi>Then Samuel went to Ramah, and Saul went up to his houſe to Gibeah of Saul. And Sa<g ref="char:EOLhyphen"/>muel came no more to ſee Saul, until the day of his death: Nevertheleſs Samuel mourned for Saul; And the Lord repented that hee had made Saul King over Iſrael.</hi>
+            </p>
+            <p>
+               <hi>Samuel went no more to viſit Saul, until the day of his death; i. e.</hi> hee went no more on purpoſe to inſtruct him, counſel him, or adviſe him (for hee afterwards ſaw him accidentally at <hi>Naioth</hi> in <hi>Ramah, chap.</hi> 19. 24.) whilſt hee lived. <hi>Until the day of his death, i, e.</hi> never, the day of his death being reckoned into the number of his daies.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> I might here obſerve by the way, <hi>That Gods Mi<g ref="char:EOLhyphen"/>niſters may prudentially abſent themſelves from the hou<g ref="char:EOLhyphen"/>ſes of wicked and diſobedient perſons, diſcountenance them, and ſhew ſtrangeneſs towards them, that they may bee aſhamed of their evil waies, and repent, and return to God.</hi> Thus the Apoſtle exhorts the godly <hi>Theſſale<g ref="char:EOLhyphen"/>nians</hi> to eſtrange themſelves from the diſobedient, that they might <hi>bee aſhamed,</hi> 2 Theſ. 3. 14. And <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> here would not be familiar with him, from whom God had eſtranged himſelf; hee refuſed to turn again
+<pb n="3" facs="tcp:168885:6"/> with him to worſhip, <hi>verſ.</hi> 26. he viſited him no more, <hi>verſ. ult. Samuel came no more to ſee Saul until the day of his death—Nevertheleſs Samuel mourned for Saul.</hi>
+            </p>
+            <p>In which words obſerve
+<list>
+                  <item>1 An Action, <hi>Mourned.</hi>
+                  </item>
+                  <item>2 The Agent, <hi>Samuel.</hi>
+                  </item>
+                  <item>3 The Object, <hi>Saul.</hi>
+                  </item>
+                  <item>4 The Modification of the Action, expreſt in the word <hi>[Nevertheleſs] Nevertheleſs Samuel mourned for Saul.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Before I diſcourſe particularly of the parts of the Text, I muſt neceſſarily anſwer a Queſtion, upon the Anſwer to which the whole following diſcourſe muſt depend, <hi>viz.</hi>
+            </p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Whether Samuel did well or ill in mourning for Saul?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> To which I anſwer, Hee did well in it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>
+               </label> But then will ſome ſay, Why did God forbid him to do it, as wee finde hee did? <hi>chap.</hi> 16. 1. <hi>And the Lord ſaid to Samuel, how long wilt thou mourn for Saul?</hi> Will God forbid the doing of that which is well done?</p>
+            <p>
+               <label>Anſw.</label> 1 It is unqueſtionably lawful to mourn for others; Nay, it is a duty ſo to do, <hi>Rom.</hi> 12. 15. <hi>Weep with them that weep.</hi> God would not have his people walk by the Rule of the <hi>Stoicks,</hi> who condemned all kind of affection and ſympathy: Hee who is a God of bowels, would not have his people to bee without all bowels of compaſſion. Nay, it is lawful to mourn o<g ref="char:EOLhyphen"/>ver the wicked, the enemies of God; as appears in the example of holy <hi>David, Pſal.</hi> 35. 13, 14. <hi>As for mee, when they were ſick</hi> (meaning the wicked, as ap<g ref="char:EOLhyphen"/>pears by the 11, and 12, <hi>verſes) My cloathing was ſack-cloth, I humbled my ſoul with faſting, I bowed down hea<g ref="char:EOLhyphen"/>vily,</hi>
+               <pb n="4" facs="tcp:168885:7"/> 
+               <hi>as one that mourneth for his Mother.</hi> And the Learned <hi>Ravanellus (in voce Luctus)</hi> ſaying, that wee ought to mourn for the miſeries of others, commends this of <hi>Samuel</hi> for an example, who mourned for <hi>Saul,</hi> as it is in my Text:<hi>—Nevertheleſs Samuel mourned for Saul.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> 2 God doth not abſolutely forbid <hi>Samuel</hi>'s mourning for <hi>Saul,</hi> but his immoderation, his exceſs; Hee doth not ſay, why doſt thou mourn for <hi>Saul,</hi> but how long wilt thou mourn for him? It appears by this, that God had long ſuffered <hi>Samuel</hi> to mourn; but now hee thought hee had mourned enough, therefore hee takes him off, <hi>How long wilt thou mourn for Saul?</hi> God would not indeed have us exceed in our mourn<g ref="char:EOLhyphen"/>ing, ſo as thereby to make our ſpirits unfit for the du<g ref="char:EOLhyphen"/>ties of our callings. Eſpecially <hi>Samuel</hi> muſt take heed of this exceſs, who was the Prieſt and Prophet of the Lord, and a publick perſon, upon the right frame of whoſe ſpirit much did depend. And therefore (if wee obſerve it) God ſeems to take him off from mourning, that hee might be fit to go about his work, <hi>chap.</hi> 16. 1. <hi>Fill thine horn with Oyl, go, I will ſend thee, &amp;c.</hi> And happily this might be one reaſon, why God forbade the Prieſts, eſpecially the High Prieſts, to make any mourning for the dead, as ſome Annotators do hint, upon <hi>Levit.</hi> 21. 1, 2, 3. <hi>Samuel</hi> is not forbidden here to mourn, but to mourn long: Hee went to his houſe, and mourned: But hee muſt not make his houſe an <hi>houſe of mourning,</hi> hee muſt not dwell in ſorrow, <hi>How long wilt thou mourn for Saul?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> 3 God doth in ſome particular caſes forbid the doing of things that are otherwiſe lawful, the performance of things that are in themſelves duties.
+<pb n="5" facs="tcp:168885:7"/> Hee doth not only forbid many things which are in themſelves indifferent, as 1 <hi>King.</hi> 13. 17. <hi>Act.</hi> 15. 29. But it is alſo his prerogative to diſpence with his own commands, and to forbid (upon occaſion) the perfor<g ref="char:EOLhyphen"/>mance of Moral duties. As for example, prayer is a duty, nay the Apoſtle exhorts, that <hi>prayer and inter<g ref="char:EOLhyphen"/>ceſsion bee made for all men,</hi> 1 Tim. 2. 1. And yet in a particular caſe God forbids the Prophet to pray for the people, <hi>Jer.</hi> 7. 16. 11. 14. &amp; 14. 11. The like pro<g ref="char:EOLhyphen"/>hibition hee gives <hi>Moſes,</hi> Exod. 32. 10. To repay what is borrowed, is a moral duty, <hi>Rom.</hi> 13. 8. <hi>Owe no man any thing, &amp;c.</hi> And yet upon occaſion God diſpenſes with this duty, and commands the <hi>Iſraelites</hi> to borrow Jewels of the <hi>Egyptians,</hi> and not to reſtore them, <hi>Exod.</hi> 3. 22. Not that wee may diſpenſe with our du<g ref="char:EOLhyphen"/>ties at our own pleaſure, but God hath the preroga<g ref="char:EOLhyphen"/>tive to give diſpenſations. And therefore <hi>Jeremiah</hi> did pray for the people till God forbade him: The <hi>Iſraelites</hi> durſt not to have ſpoiled the <hi>Egyptians,</hi> but that God bade them; And <hi>Samuel</hi> here mourned for <hi>Saul,</hi> till God diſcharged him, ſaying, <hi>How long wilt thou mourn for Saul?</hi>
+            </p>
+            <p>So that notwithſtanding God did afterwards pro<g ref="char:EOLhyphen"/>hibit <hi>Samuel</hi> to mourn for <hi>Saul,</hi> yet wee may ſafely conclude, that till then, hee did well to mourn for him. Therefore in my diſcourſe I ſhall look upon <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> as performing a duty in ſo doing, and ſhall pro<g ref="char:EOLhyphen"/>pound him as a pattern for us, that wee may <hi>go and do likewiſe. Nevertheleſs Samuel mourned for Saul.</hi>
+            </p>
+            <p n="1">1 Let us conſider the Agent, <hi>Samuel.</hi> And wee may conſider him under theſe notions.</p>
+            <p n="1">1 <hi>Samuel,</hi> an <hi>holy, gracious man,</hi> a man full of the Spirit of God, mourned. Some new lights, men pre<g ref="char:EOLhyphen"/>tending
+<pb n="6" facs="tcp:168885:8"/> to a great Goſpel-Spirit, preach nothing but priviledges, practiſe nothing but joy and ſpiritual re<g ref="char:EOLhyphen"/>joycing, ſaying, It is for low ſpirits, weak, puny Chri<g ref="char:EOLhyphen"/>ſtians to lye mourning, and weeping, and filling their ſouls with heavineſs. But holy <hi>Samuel</hi> here was either yet below their ſpirits (which I cannot think he was) or beſide their mind; And ſo indeed hee was, for hee mourned for <hi>Saul.</hi> Hee was beſide their mind, and I doubt they beſides themſelves: For I am ſure our Saviour pronounces a bleſſing upon Goſpel-mour<g ref="char:EOLhyphen"/>ners, <hi>Mat.</hi> 5. 4. And I alſo know, that the moſt gra<g ref="char:EOLhyphen"/>cious ſpirits, have been ever the moſt tender, and ſym<g ref="char:EOLhyphen"/>pathizing, and moſt mournful over the ſins, and ſuf<g ref="char:EOLhyphen"/>ferings of others. <hi>Moſes</hi> the familiar friend of God, who was <hi>faithful in all his houſe,</hi> though of a great and gracious ſpirit, mourned over the ſtiff-necked, hard<g ref="char:EOLhyphen"/>hearted, and rebellious <hi>Iſraelites. Joſiah</hi> was a man of ſingular piety, and yet of ſingular tenderneſs. <hi>Elijah</hi> was a man full of the Spirit of the Lord, and yet full of complaints for the Idolatry and backſlidings of the people, 1 <hi>King.</hi> 19. 10. <hi>David</hi> was a man after Gods own heart, and yet much in tears, <hi>Pſal.</hi> 119. 28. 136, <hi>&amp;c. Jeremiah</hi> was a man that found grace in the eyes of God, a man much of Gods mind, and hee was one of a mournful ſpirit: Hee wrings his hands, and fqueezes his eyes, nay, and drains his very ſoul too for tears, all up and down his Prophecie, eſpecially, <hi>chap.</hi> 4. 19. 9. 1, 2. 13. 17. Nay, hee mourns bitterly for the deſolation of <hi>Moab,</hi> a rebellious, uncircumciſed people, <hi>Jer.</hi> 48. 31, 32. <hi>Paul</hi> a man of a Goſpel-ſpirit, and otherwiſe of a great and undaunted ſpirit, thinks, that mourning for the ſinful and impenitent, was a du<g ref="char:EOLhyphen"/>ty ſuitable enough to his ſpirit, 2 <hi>Cor.</hi> 12. <hi>ult.</hi> Wee
+<pb n="7" facs="tcp:168885:8"/> may learn from the example of holy <hi>Samuel</hi> mour<g ref="char:EOLhyphen"/>ning for <hi>Saul,</hi> that <hi>mourning is not an exerciſe unbecom<g ref="char:EOLhyphen"/>ing the moſt gracious ſpirits.</hi>
+            </p>
+            <p n="2">2 <hi>Samuel a man mighty in prayer,</hi> mourned for <hi>Saul.</hi> Hee was ſo mighty in prayer with God, that when God would expreſs a man prevalent in prayer, hee u<g ref="char:EOLhyphen"/>ſes <hi>Samuels</hi> name, to ſignifie him by, <hi>Jer.</hi> 15. 1. <hi>Though Moſes and Samuel stood before mee, yet could not my mind bee towards this people.</hi> Yet <hi>Samuel</hi> did not improve his intereſt at the Throne of grace againſt <hi>Saul,</hi> did not implore God for his ruine, but betook himſelf to his tears; <hi>Samuel mourned for Saul.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> It is obſervable, That the ſervants of God who have been moſt ſtrong in prayer, have rarely improv'd their intereſt at the Throne of grace againſt any, no not their enemies. <hi>Moſes,</hi> when hee was ſleighted and ſet at nought by the people, and threatned alſo, yet did not pray for their ruine, but for their relief rather, <hi>Exod.</hi> 17. 4. Such a ſpirit was holy <hi>David</hi> of, as you may ſee in his behaviour upon occaſion of <hi>Shimei</hi>'s curſing, 2 <hi>Sam.</hi> 16. 10. This was the ſpirit of holy <hi>Stephen,</hi> who was ſo <hi>full of the Holy Ghoſt, Act.</hi> 7. 60. Inſtead of putting up imprecations of wrath againſt them, hee depre<g ref="char:EOLhyphen"/>cates the wrath that might juſtly have fallen upon them, ſaying, <hi>Lord lay not this ſin to their charge.</hi> This ſpirit was in our bleſſed Saviour, <hi>Mat.</hi> 26. 53, 54. <hi>Luk.</hi> 23. 34. and 9. 54, 55. And this ſpirit hee commends to all his, <hi>Mat.</hi> 5. 44. True indeed, ſometimes wee finde the ſervants of God ready to pray againſt their enemies, in Scripture; But then it was either out of weakneſs, as the two Diſciples, <hi>Luk.</hi> 9. 54. or being acted by an extraordinary, prophetical ſpirit, as <hi>Eli<g ref="char:EOLhyphen"/>jah,</hi> 2 King. 1. and <hi>David</hi> oft-times in the Pſalms; or
+<pb n="8" facs="tcp:168885:9"/> in paſſion, as <hi>Jer.</hi> 20. 15, 16. But you ſhall never hear any ſuch thing from them, unleſs they were beſides themſelves (in paſſion) and ſo they muſt not bee imi<g ref="char:EOLhyphen"/>tated, or above themſelves (extraordinarily<g ref="char:punc">▪</g> acted) and ſo wee cannot imitate them. But alas, how few ſuch ſpirits, how little ſuch moderation is to be found amongſt us! If many hot ſpirits had as much ſtrength with God, and intereſt in the Throne of grace, as <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> had, wee ſhould quickly have fire upon our heads; whereas <hi>Samuel,</hi> who was <hi>greater in power and might,</hi> improved not his might againſt <hi>Saul,</hi> but mourned for him. Nay, it is moſt ſad of all, to hear Gods people groaning in prayer one againſt another; Inſomuch that if the wiſe God, were not merciful to them in denying their prayers ſometimes, they would ſet the world on fire; whereas they ought ra<g ref="char:EOLhyphen"/>ther to mourn for one another, as <hi>Samuel</hi> here, who was otherwiſe ſtrong in prayer even to a Proverb.</p>
+            <p n="3">3 <hi>Samuel a man as much hating Saul</hi>'s <hi>manners, as any man,</hi> yet mourned for his condition. It is a hard thing to bee diſpleaſed at a mans manners, and yet nor to hate his perſon, nor to rejoyce in the evil that be<g ref="char:EOLhyphen"/>falls him. Commonly when wee are diſpleaſed with a mans actings, wee are proportionably pleaſed with his ſufferings. To diſtinguiſh between a mans condi<g ref="char:EOLhyphen"/>tions, and his condition, ſo as to abbor the one, and yet to commiſerate the other, is a great art; and ſuch a one as <hi>David</hi> may ſeem ſometimes not to have very well learnt, when hee rejoyced in the death of chur<g ref="char:EOLhyphen"/>liſh <hi>Nabal,</hi> 1 <hi>Sam.</hi> 25. 39. Unleſs wee chuſe rather to ſay, that <hi>David</hi> rejoyced, not that <hi>Nabal</hi> was dead, but that hee did not kill him, which yet doth not ſeem to bee all. However at any other time hee ſhews him<g ref="char:EOLhyphen"/>ſelf
+<pb n="9" facs="tcp:168885:9"/> an artiſt in this art to the life, as may appear to him that reads, <hi>Pſal.</hi> 35. 11, 12, 13, 14. Oh admirable ſoul! oh wonderful ſelf-denying frame of ſpirit! ready to dye for thine enemy that is ſick? go in ſack-cloth for the affliction of an unkinde adverſary? Oh bleſſed ſoul! every one will admire thee, but who can imitate thee? oh labour wee all to bee aſhamed of our ſelves, that one and the ſame hatred is ſo apt to comprehend the man with the manners; and for the future to imitate holy <hi>David,</hi> who although hee was offended at a perſecuting <hi>Saul,</hi> yet lamented a dying <hi>Saul;</hi> and good <hi>Samuel,</hi> who although hee re<g ref="char:EOLhyphen"/>jected <note place="margin">2 Sam. 1. 17.</note> a ſinning <hi>Saul, verſ.</hi> 26. yet mourned for a re<g ref="char:EOLhyphen"/>jected <hi>Saul, verſ.</hi> 35.<hi>—Nevertheleſs Samuel mourned for Saul.</hi>
+            </p>
+            <p>So much for the Agent, <hi>Samuel,</hi> and what may be gathered from him.</p>
+            <p n="2">2 The Action, <hi>Mourned, Samuel mourned for Saul.</hi>
+            </p>
+            <p n="1">1 Wee may obſerve that hee did <hi>not rejoyce</hi> in <hi>Sauls</hi> rejection, much leſs in his ſin, but mourned for him. It is the unkinde and ſinful property of many men to make themſelves merry with others miſery, to re<g ref="char:EOLhyphen"/>joyce in their ruine, and to bee made lightſome by their heavineſs; whereby they add weight to their burden, affliction to their bonds, and bitterneſs to their wormwood. This <hi>David</hi> is ſtudious to prevent, 2 <hi>Sam.</hi> 1. 20. <hi>Tell it not in Gath, publiſh it not in the ſtreets of Askelon, leſt the daughters of the Philiſtins rejoyce, leſt the daughters of the uncircumciſed triumph.</hi> Thus did not holy <hi>Samuel,</hi> this did not compaſſio<g ref="char:EOLhyphen"/>nate <hi>David,</hi> as you ſaw in <hi>Pſal.</hi> 35. 13, 14. Thus do not you; Rejoyce not in the evil that befalls any: Although you are offended with his ſinful life, yet
+<pb n="10" facs="tcp:168885:10"/> rejoyce not at his ſad death; although you like him not ſtanding, yet pity him falling, mourn for his fall: Although you bee troubled at his manners, yet de<g ref="char:EOLhyphen"/>light not in his troubles. But this I touch'd upon be<g ref="char:EOLhyphen"/>fore. Therefore</p>
+            <p n="2">2 <hi>Samuel did not inſult ever Saul,</hi> but mourned for him. It is the manner of many ignoble, unchriſtian, and impotent ſpirits, to trample upon a man when God hath him down, to tread upon him whom provi<g ref="char:EOLhyphen"/>dence hath laid low: Thus did the Philiſtins inſult o<g ref="char:EOLhyphen"/>ver captive <hi>Sampſon, Judg.</hi> 16. 25. <hi>Call for Sampſon, and let him make us ſport.</hi> Thus did <hi>Edom</hi> to <hi>Jacob</hi> in the day of <hi>Jeruſalem</hi>'s viſitation, <hi>Pſal.</hi> 137. 7. <hi>Obad. verſ.</hi> 12. Thus God knew that the enemies of <hi>Iſrael</hi> would do, if hee ſhould ſcatter his people into corners, <hi>Deut.</hi> 32. 27. But thus did not <hi>Samuel</hi> here: Hee looked not on the day of <hi>Saul,</hi> hee behaved not him<g ref="char:EOLhyphen"/>ſelf proudly, hee magnified not his mouth againſt him; But <hi>Samuel mourned for Saul.</hi> Hath God made our enemies to ſtoop to us? let us not tread upon them; hath hee conquered them? let not us triumph imperiouſly, and inſult over them: But rather, the more God humbles a man by afflicting him, the more let us humble our ſelves for his affliction, as <hi>David</hi> did, <hi>Pſal.</hi> 35. 13. and as <hi>Samuel</hi> did here, <hi>Samuel mour<g ref="char:EOLhyphen"/>ned for Saul.</hi> He did not inſult over him, hee did not taunt and reproach him, as the moſt malicious Jews did our bleſſed Saviour, hanging upon the croſs, <hi>(Mat.</hi> 27. 41, <hi>&amp;c.)</hi> who fed their greedy eyes with his ſuffe<g ref="char:EOLhyphen"/>rings, and their revengeful natures with his blood, but hee mourned for <hi>Saul.</hi> Go wee and do likewiſe.</p>
+            <p n="3">3 Hee did <hi>not blaze and divulge his miſcarriages,</hi> but bewailed them. Oh gracious ſpirit, and far different
+<pb n="11" facs="tcp:168885:10"/> from that of curſed <hi>Ham,</hi> who <hi>ſaw his Fathers naked<g ref="char:EOLhyphen"/>neſs, and went and told his two brethren without,</hi> Gen. 9. 22. But <hi>Samuel</hi> when hee ſaw that God had ſtript <hi>Saul</hi> of his royal Robes, and made him naked, took another way; Hee went home to his houſe, and mourned for him. It is much the ſin of this genera<g ref="char:EOLhyphen"/>tion, even cenſoriouſneſs, and that conſtant prone<g ref="char:EOLhyphen"/>neſs, which wee ſee in all men almoſt, to proclaim, divulge, and depredicate the infirmities, and blaze the failings of others, eſpecially Miniſters, and men of publick place. Inſtead of relieving a brother that is overtaken with a fault (according to the Apoſtles counſel, <hi>Gal.</hi> 6. 1.) wee are apt to report his faults, and tell our <hi>brethren without,</hi> to make him vile, to ſto<g ref="char:EOLhyphen"/>ry out his infirmities, inſtead of reſtoring him. As for Miniſters, you are not ignorant how precious the ointment of their good names ought to bee, and of what concernment it is that their credits ſhould bee preſerved entire and ſpotleſs; you cannot bee igno<g ref="char:EOLhyphen"/>rant, how tender the Apoſtle commands men to bee of the ſame, charging <hi>Timothy</hi> not to <hi>receive an accuſa<g ref="char:EOLhyphen"/>tion againſt an Elder, but before two or three witneſſes,</hi> 1 Tim. 5. 19. which tenderneſs it appears that <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> was largely indued withall, who would have thrown his own royal Robe over an adulterous Biſhop, if hee had ſeen him in the evil act. And as for Magi<g ref="char:EOLhyphen"/>ſtrates, and men of ſecular dignity, <hi>Solomon</hi> charges to uſe them with a ſingular tenderneſs, <hi>Eccleſ.</hi> 10. 20. <hi>Curſe not the King, no not in thy conſcience:</hi> And the Apoſtle <hi>Peter,</hi> in that hee makes this a character of the moſt deſperate preſumption, to <hi>ſpeak evil of dig<g ref="char:EOLhyphen"/>nities,</hi> 2 <hi>Pet.</hi> 2. 10. <hi>They are not afraid to ſpeak evil of dignities.</hi> But alas, the impudence of this generation,
+<pb n="12" facs="tcp:168885:11"/> and their preſumption, is ſuch, that if a brother bee overtaken in a fault, all the world muſt know it: Men do not only receive, but even raiſe and report accuſa<g ref="char:EOLhyphen"/>tions againſt Elders; and ſpeak moſt virulently, and ignominiouſly of <hi>the Rulers of the people.</hi> To this evil and impudent generation, I only ſay, that the Lord will certainly execute judgement upon them; and e<g ref="char:EOLhyphen"/>ven cauſe them to eat thoſe hard ſpeeches, which they ſpeak againſt him. For they that ſpeak reproach<g ref="char:EOLhyphen"/>fully of Gods Vicegerents, and Embaſſadors, do re<g ref="char:EOLhyphen"/>proach God himſelf, whoſe repreſentative they are. Learn wee all to have a ſingular tenderneſs towards all men; tell not their faults abroad with <hi>Ham,</hi> but go home and mourn over them with holy <hi>Samuel.—Ne<g ref="char:EOLhyphen"/>vertheleſs Samuel mourned for Saul.</hi>
+            </p>
+            <p n="4">4 Hee did <hi>not ſtir up ſedition,</hi> nor raiſe an inſurre<g ref="char:EOLhyphen"/>ction againſt <hi>Saul,</hi> but mourned for him. Although hee carried himſelf ſinfully, and managed his people fooliſhly, yet diſcontented <hi>Samuel</hi> ſtirred not up his own ſpleen, nor the peoples rage againſt him, but went home and mourned for him. Of ſuch a King, ſaith learned <hi>Cartwright,</hi> are thoſe words, <hi>Eccleſ.</hi> 10. 20. to bee underſtood, as though one ſhould ſay (in alluſion to the Apoſtle, 1 <hi>Pet.</hi> 2. 18.) not only of the <hi>good and gentle, but alſo of the froward,</hi> and fooliſh. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> This is alſo to bee conſidered, that <hi>Samuel</hi> at this time knew that God had in his decree rejected <hi>Saul</hi> from being King; and alſo that <hi>Samuel</hi> was a man of migh<g ref="char:EOLhyphen"/>ty power and intereſt in the <hi>Iſraelitiſh</hi> hearts; And upon theſe accounts hee had a great advantage to have made an inſurrection, and a fair pretence at hand, wherewithall to cover and excuſe it, when hee had done: Yet a <hi>David</hi> ſometimes ſpared him, ſo <hi>Sa<g ref="char:EOLhyphen"/>muel</hi>
+               <pb n="13" facs="tcp:168885:11"/> here pitied him, <hi>Samuel mourned for Saul.</hi>
+            </p>
+            <p>This may at leaſt teach us to uſe a ſingular tender<g ref="char:EOLhyphen"/>neſs to the perſons, and powers of conſtituted Magi<g ref="char:EOLhyphen"/>ſtrates, and to take heed how wee vilifie the one, or weaken the other, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, leſt hap<g ref="char:EOLhyphen"/>pily wee bee found to fight againſt God, as <hi>Gamaliel</hi> ſaid in another caſe; but rather to mourn over them with <hi>Samuel—Nevertheleſs Samuel mourned for Saul.</hi>
+            </p>
+            <p>So much for the Action, and the conſiderables in it.</p>
+            <p n="3">3 The Object of this mourning. Who was it that this <hi>Samuel</hi> thus mourned for? hee mourned for <hi>Saul, Nevertheleſs Samuel mourned for Saul.</hi> Now we may conſider <hi>Saul</hi> under theſe notions amongſt others.</p>
+            <p n="1">1 <hi>Saul a King, Samuel</hi> mourned for King <hi>Saul. Saul</hi> was the annointed of God, the rightful King of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> choſen by Gods appointment and direction. And although <hi>Samuel</hi> was at firſt againſt the office of a King, yet when God had appointed a King over them, and ſettled him amongſt them, hee was a loyal ſubject, a faithful counſellor, ſo as no man more, nor indeed like him. The beſt men are the beſt for any purpoſe; the beſt in every relation; the beſt Kings, the beſt ſubjects, the beſt Maſters, the beſt ſervants, the beſt every thing. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> It is worth obſerving, that as God hath been ever careful to give commands con<g ref="char:EOLhyphen"/>cerning his Magiſtrates and Vicegerents, ſo the beſt men have been alwaies moſt careful to obſerve thoſe commands, have carried it moſt tenderly, reverently, and obſequiouſly towards them. <hi>Samuel</hi> here had ſtill a ſecret reſpect for Gods annointed,<hi>—Neverthe<g ref="char:EOLhyphen"/>leſs Samuel mourned for Saul.</hi> Conſider what was ſaid under the laſt particular.</p>
+            <p n="2">
+               <pb n="14" facs="tcp:168885:12"/> 2 <hi>Saul an enemy.</hi> In probability <hi>Saul</hi> was by this time become <hi>Samuels</hi> enemy. There is a paſſage in the <hi>fourth verſe</hi> of the 26<hi rend="sup">th</hi>. <hi>chapter,</hi> that may ſeem to ſtrengthen this conjecture. When <hi>Samuel</hi> came to <hi>Bethlehem,</hi> it is ſaid, that <hi>the Elders of the Town trem<g ref="char:EOLhyphen"/>bled at his coming, and ſaid, comeſt thou peaceably?</hi> whereupon the <hi>Dutch Annotations</hi> ſuppoſe, that the <hi>Bethlehemites</hi> heard that <hi>Saul</hi> was provoked againſt <hi>Samuel,</hi> becauſe hee had pronounced him a man re<g ref="char:EOLhyphen"/>jected of God, and therefore thought that <hi>Samuel</hi> had fled from <hi>Saul.</hi> It ſeems to appear alſo that <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> ſuſpected him, that hee had no great confidence in his friendſhip, by the <hi>ſecond verſe</hi> of the ſame <hi>chap<g ref="char:EOLhyphen"/>ter.</hi> And indeed, if wee conſider the carnal ambiti<g ref="char:EOLhyphen"/>ous, revengeful frame of <hi>Saul</hi>'s ſpirit, wee may juſtly conclude, that it was almoſt impoſſible that he ſhould bee any other than an enemy to <hi>Samuel.</hi> Yet <hi>Samuel</hi> mourned for this <hi>Saul,</hi> this enemy. And ſo did <hi>Da<g ref="char:EOLhyphen"/>vid</hi> for them that <hi>perſecuted</hi> and <hi>ſpoiled</hi> him, <hi>Pſa.</hi> 35. Our bleſſed Saviour, who wept over perſecuting <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and bewailed it with ingeminations, doth ſet us a copy to write after; that wee alſo ſhould <hi>pray for them that perſecute us,</hi> bewail the ſins and ſufferings of. them that hate us; Their ſins wee muſt bewail, be<g ref="char:EOLhyphen"/>cauſe they intrench upon the honour of God, and en<g ref="char:EOLhyphen"/>danger their own ſouls, which ought to bee dear unto us: Their ſufferings wee muſt bewail out of Chri<g ref="char:EOLhyphen"/>ſtian and brotherly compaſſion, as <hi>Samuel</hi> did here.<hi>—Nevertheleſs Samuel mourned for Saul.</hi>
+            </p>
+            <p n="3">3 <hi>Saul a wicked man,</hi> a diſobedient man: <hi>Samuel</hi> mourned for this <hi>Saul;</hi> nay, becauſe <hi>Saul</hi> was this, therefore hee mourned for him. Do yee ſee a wicked, prophane, and ſinful wretch? ſome will be
+<pb n="15" facs="tcp:168885:12"/> ready to laugh at him, others to neglect him, ſome perhaps in an over-hot zeal to curſe him. Oh but do you admoniſh him, labour to reform him, pray for him: If all this prove ineffectual, yet pity him, mourn over him. Is the Name of the great God diſ<g ref="char:EOLhyphen"/>honoured, his commandements broken, his waies de<g ref="char:EOLhyphen"/>ſpiſed? is the precious ſoul of thy brother indanger<g ref="char:EOLhyphen"/>ed, and hee ready to go to Hell headlong? Oh who can chuſe but mourn, who would not bee a <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> here? A wicked man is the greateſt, the fit<g ref="char:EOLhyphen"/>teſt object of pity in the world, and that upon the ac<g ref="char:EOLhyphen"/>count of his wickedneſs. The prophaneneſs of beg<g ref="char:EOLhyphen"/>gars had more need of pity, than their wants; their Ignorance and Atheiſm cries louder for our prayers and tears, than their poverty for our alms. When <hi>Je<g ref="char:EOLhyphen"/>remiah</hi> thought of the afflictions of the Jews, hee calls to his eyes, <hi>Jer.</hi> 9. 1. But when hee thought of their obſtinacy, and perverſeneſs, hee calls to his ſoul for tears, <hi>Jer.</hi> 13. 17. When hee ſpeaks of their capti<g ref="char:EOLhyphen"/>vity, his <hi>eye ran down with tears:</hi> But when hee thought of their impiety, his <hi>ſoul wept in ſecret,</hi> as you may ſee him, as it were purpoſely, varying the phraſe in that place. But when ſin and miſery meet together in a man, then let the eyes and the ſoul conſpire together to bewail him. When <hi>Saul</hi> hath rejected the Commandements of God, and God hath rejected <hi>Saul</hi> too, then <hi>Samuel</hi> goes home, and mews up himſelf in mourning,<hi>—Samuel mourned for Saul.</hi>
+            </p>
+            <p>To this I might add alſo, that <hi>Samuel</hi> mour<g ref="char:EOLhyphen"/>ned for <hi>Saul,</hi> who ſucceeded him in the Govern<g ref="char:EOLhyphen"/>ment of the Nation, even his own eyes looking on. Men are uſually apt to bee glad of the reje<g ref="char:EOLhyphen"/>ction of a competitor, of one that ſtands between
+<pb n="16" facs="tcp:168885:13"/> them and preferment, of one whoſe election was their excluſion: But ſo did not <hi>Samuel</hi> here; which alſo commends in him, and commends to us a ſelf-denying, humble, gracious diſpoſition of mind. Thus much for the Object, <hi>Saul,</hi> and what may bee conſidered in him.</p>
+            <p>Laſtly, Let us conſider the Modification of the Action, expreſt in the word <hi>[Nevertheleſs]</hi> which doth neceſſarily ſuppoſe ſomething: For being a <hi>Conjunction Redditive,</hi> it muſt have one <hi>Ad<g ref="char:EOLhyphen"/>verſative</hi> or more.</p>
+            <p n="1">1 <hi>Although Samuel and his Counſel was rejected of Saul, Nevertheleſs Samuel mourned for Saul. Sa<g ref="char:EOLhyphen"/>muel</hi> had been at much pains with <hi>Saul,</hi> to inſtruct him in his duty, to counſel him in his affairs, to re<g ref="char:EOLhyphen"/>prove him for his faults, and behaved himſelf in all things as though hee had been his guardian; And yet found no ſucceſs of his pains; his inſtru<g ref="char:EOLhyphen"/>ctions were not followed, his counſel was diſobey<g ref="char:EOLhyphen"/>ed, his reproofs deſpiſed, and all his indeavours made unſucceſſeful. And yet this <hi>Samuel</hi> thus re<g ref="char:EOLhyphen"/>jected, mourned for <hi>Saul,</hi> which doth commend in him an excellent ſpirit of patience and lenity, and reproves the impatience and ſpleeniſhneſs of the moſt in the world, who think if they bee at pains to fore-warn, counſel, or reprove their bro<g ref="char:EOLhyphen"/>ther, and hee do not hearken to them, they have ſufficiently diſcharged their duty, they need do no more. Of this mind was not holy <hi>Samuel;</hi> hee though that after hee had done this, and more than this, it was his duty to mourn for <hi>Saul.</hi> The good example of this good man, may ex<g ref="char:EOLhyphen"/>hort us all to do the like; eſpecially it may teach
+<pb n="17" facs="tcp:168885:13"/> Gods Miniſters their duty, after all diſcourage<g ref="char:EOLhyphen"/>ments, and contempts that they meet with in the world, from obſtinate and unthankful per<g ref="char:EOLhyphen"/>ſons. Are their people froward, dull, careleſs, ignorant, idle? Is their counſel ſcorned, their re<g ref="char:EOLhyphen"/>proofs ſleighted, their words made wind of, all their importunate pains, and inceſſant prayers unſucceſſeful? why yet ſomething remains to bee done, and that is all they can do, even to mourn for them. See the reſolution of the tender-hearted Prophet <hi>Jeremiah, Jer.</hi> 13. 17. <hi>If yee will not hear;</hi> what then? will hee curſe them, revenge himſelf upon them? No. But will hee not at leaſt deſiſt, leave them, caſt off all further care of them? No. What then? why, <hi>My ſoul ſhall weep in ſecret places for your pride.</hi> Oh that men had betaken themſelves to their eyes, to their <hi>preces</hi> and <hi>lachry<g ref="char:EOLhyphen"/>mae,</hi> to the wringing of their hands, when they be<g ref="char:EOLhyphen"/>took themſelves to the arming of their hands to revenge themſelves upon their brethren; our in<g ref="char:EOLhyphen"/>teſtine confuſions had yet been to begin, whereas now they are not at an end, and God knows when they will bee: If wee had ſhed as much tears, as wee have done blood, wee had not had ſo much guilt abiding upon us, nor ſo much miſery amongſt us, and it had been a Sacrifice the more pleaſing to God of the two. And as for Miniſters, if they preach well, pray well, exhort well, reprove well, yet if they do not mourn well too, they have not diſcharged their duty well; not ſo well as <hi>Samuel</hi> did here,<hi>—Nevertheleſs Samuel mourned for Saul.</hi>
+            </p>
+            <p n="2">2 <hi>Although Saul and his authority was rejected of God, yet Samuel mourned for Saul.</hi> Many men when
+<pb n="18" facs="tcp:168885:14"/> they ſee God hath caſt a man down, are ready to caſt him off too, and all care of him, all thoughts of him; <hi>perſecute and take him, for God hath forſaken him.</hi> If a Viper do but ſtick upon a mans hand, if God ſhall baniſh him, impoveriſh him, or any way afflict him, they conclude him to bee <hi>a murderer</hi> (with the <hi>Barbarians, Act.</hi> 28. 4.) or an hypocrite (with <hi>Job</hi>'s friends, <hi>Job</hi> 4. 7. and 8. 6.) they paſs ſen<g ref="char:EOLhyphen"/>tence upon him preſently, and never look more af<g ref="char:EOLhyphen"/>ter him. But bee it ſo, that God hath indeed re<g ref="char:EOLhyphen"/>jected and caſt off a perſon, or a people, yet the gra<g ref="char:EOLhyphen"/>cious ſoul cannot chuſe but bee affected, afflicted with it, and pity them. A good man, a right <hi>Samuel,</hi> is ſo much a friend to Gods juſtice, that hee cannot but approve Gods ſentence paſſing upon man; and yet hee is ſo full of bowels, that hee cannot but la<g ref="char:EOLhyphen"/>ment the execution of it upon his brother, as <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> did here,<hi>—Nevertheleſs Samuel mourned for Saul.</hi>
+            </p>
+            <p n="3">3 <hi>Although Samuel went not to ſee Saul,</hi> yet <hi>Samuel mourned for Saul. Samuel</hi> out of prudence abſented himſelf from <hi>Saul;</hi> But yet out of piety and pity he mourned for <hi>Saul.</hi> Diſcretion may ſometimes per<g ref="char:EOLhyphen"/>ſwade us to ſome diſcouraging ſtrangeneſs towards wicked men, yet compaſſion will not ſuffer the god<g ref="char:EOLhyphen"/>ly man to eſtrange his bowels from them; <hi>Sa<g ref="char:EOLhyphen"/>muel mourned for Saul; Samuel</hi> would not beſtow his eyes to ſee <hi>Saul,</hi> but hee would employ them to weep over him. The like ſweet mixture of theſe two eminent graces, <hi>diſcretion,</hi> and <hi>compaſsion,</hi> wee may ſee in <hi>David</hi> not ſuffering <hi>Abſolom</hi> to ſee him, <note place="margin">2 Sam. 13.</note> and yet full of bowels towards him, as wee ſee here in <hi>Samuel</hi> not going to ſee <hi>Saul,</hi> but yet lamenting
+<pb n="19" facs="tcp:168885:14"/> him; the one ſeeming to imitate the other; oh that wee could imitate either! All love doth not con<g ref="char:EOLhyphen"/>ſiſt in frequent viſits: For as I may bee viſited, and yet hated, ſo I may bee neglected, and yet pitied. And they are better friends, that ſtay at home, and mourn for you, than they that viſit you, to cor<g ref="char:EOLhyphen"/>rupt, and enſnare you. Every man will bee prone enough to bee a ſtranger to a man in anger, even malice it ſelf will take the firſt part of the verſe, will bee a <hi>Samuel</hi> there: but withall hee mourned for him, whom hee had no more any reaſon to viſit; Oh that wee were all <hi>Samuels</hi> here! Thus you ſee the Modification of the action. Although God had rejected <hi>Saul,</hi> and <hi>Samuel</hi> had rejected <hi>Saul,</hi> and <hi>Saul</hi> had rejected both God and <hi>Samuel, Neverthe<g ref="char:EOLhyphen"/>leſs Samuel mourned for Saul.</hi>
+            </p>
+            <p>Having all along mixed doctrine and application, (I pray God it may prove more ſucceſſefully, than it is methodically) nothing remains further, but that (which I commit to God to work) wee all <hi>go, and do likewiſe.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
